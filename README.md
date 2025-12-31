@@ -150,4 +150,4 @@ Bachelor’s Degree — Software Engineer (2016)
 
 - Email: invicto.via@gmail.com
 - Telegram: https://t.me/invicto_via
-- LinkedIn: https://www.linkedin.com/in/invicto_via
+- LinkedIn: https://www.linkedin.com/in/invictovia/
