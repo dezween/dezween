@@ -127,9 +127,15 @@ Focused on building reliable, maintainable, and scalable backend systems.
 ### Python Developer — Andersen Lab  
 **March 2019 – May 2021**
 
-- Developed one of Europe’s largest online flower shops
-- Built backend services using Python, FastAPI, Django, and PostgreSQL
-- Implemented bouquet generation logic in a FastAPI microservice based on user preferences
+- Developed one of Europe’s largest online flower shops using Python, FastAPI, Django, and PostgreSQL.
+- Built bouquet generator in a FastAPI microservice based on user preferences.
+- Integrated new payment method via API (YooKassa).
+- Added cron jobs in Django admin for daily sales reports in PDF and Excel formats.
+- Optimized SQL queries in reporting module, added indexes, and integrated Redis for promotional items.
+- Wrote tests with Pytest (factory-boy), increasing test coverage by 15%.
+- Refactored Docker images for faster builds and managed Docker, Docker-Compose.
+
+**Tech Stack:** Python, FastAPI, Django, PostgreSQL, Celery, Redis, GitLab CI/CD, Docker, Pytest, Sentry, Git, Linux
 
 ---
 
